@@ -1,0 +1,10 @@
+Unclicked = square blank
+No Value = square open0
+One mine = square open1
+Two mines = square open2
+Three mines = square open3
+Four mines = square open4
+Five mines = square open5
+Six mines = square open6
+Seven mines = square open7
+Bomb = square bombrevealed
